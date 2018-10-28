@@ -72,7 +72,7 @@
   }
   
   .social-icons a:hover {
-    background-color: #BD5D38;
+    background-color: #0B486B;
   }
   
   .dev-icons {
@@ -80,7 +80,7 @@
   }
   
   .dev-icons .list-inline-item i:hover {
-    color: #BD5D38;
+    color: #3FB8AF;
   }
   
   #sideNav .navbar-nav .nav-item .nav-link {
@@ -176,18 +176,18 @@
   }
   
   .bg-primary {
-    background-color: #BD5D38 !important;
+    background-color: #0B486B !important;
   }
   
   .text-primary {
-    color: #BD5D38 !important;
+    color: #0B486B !important;
   }
   
   a {
-    color: #BD5D38;
+    color: #9AB4CB;
   }
   
   a:hover, a:focus, a:active {
-    color: #824027;
+    color: #0B486B;
   }
   
