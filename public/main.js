@@ -41,7 +41,7 @@ module.exports = ""
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<section class=\"resume-section p-3 p-lg-5 d-flex d-column\" id=\"about\">\n  <div class=\"my-auto\">\n    <h1 class=\"mb-0\">Meet\n      <span class=\"text-primary\">Patel</span>\n    </h1>\n    <div class=\"subheading mb-5\">Bhubaneswar,Odisha,India · (+91) 9726467772 ·\n      <a href=\"mailto:name@email.com\">meetpatel7991@gmail.com</a>\n    </div>\n    <p class=\"lead mb-5\">Hi,I'm open-source enthusiast.I am a MEAN stack web developer and passionate about machine learning and computer vision.</p>\n    <div class=\"social-icons\">\n      <a href=\"https://www.linkedin.com/in/meet-patel-310843153/\">\n        <i class=\"fab fa-linkedin-in\"></i>\n      </a>\n      <a href=\"https://github.com/meetcric\">\n        <i class=\"fab fa-github\"></i>\n      </a>\n      <a href=\"https://www.facebook.com/defendable.meet\">\n        <i class=\"fab fa-facebook-f\"></i>\n      </a>\n      <a href=\"https://medium.com/@mp32445\">\n        <i class=\"fab fa-medium\"></i>\n      </a>\n      \n    </div>\n  </div>\n</section>"
+module.exports = "<section class=\"resume-section p-3 p-lg-5 d-flex d-column\" id=\"about\">\n  <div class=\"my-auto\">\n    <h1 class=\"mb-0\">Meet\n      <span class=\"text-primary\">Patel</span>\n    </h1>\n    <div class=\"subheading mb-5\">Bhubaneswar,Odisha,India · (+91) 9726467772 ·\n      <a href=\"mailto:name@email.com\">meetpatel7991@gmail.com</a>\n    </div>\n    <p class=\"lead mb-5\">Hi,I'm open-source enthusiast And a full stack web developer and passionate about machine learning and computer vision.</p>\n    <div class=\"social-icons\">\n      <a href=\"https://www.linkedin.com/in/meet-patel-310843153/\">\n        <i class=\"fab fa-linkedin-in\"></i>\n      </a>\n      <a href=\"https://github.com/meetcric\">\n        <i class=\"fab fa-github\"></i>\n      </a>\n      <a href=\"https://www.facebook.com/defendable.meet\">\n        <i class=\"fab fa-facebook-f\"></i>\n      </a>\n      <a href=\"https://medium.com/@mp32445\">\n        <i class=\"fab fa-medium\"></i>\n      </a>\n      \n    </div>\n  </div>\n</section>"
 
 /***/ }),
 
@@ -525,7 +525,7 @@ Object(_angular_platform_browser_dynamic__WEBPACK_IMPORTED_MODULE_1__["platformB
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /home/optimus/Desktop/workspace/myblog/angular-src/src/main.ts */"./src/main.ts");
+module.exports = __webpack_require__(/*! /home/optimus-prime/Desktop/work/myblog/angular-src/src/main.ts */"./src/main.ts");
 
 
 /***/ })
